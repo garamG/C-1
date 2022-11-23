@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <string.h>
-////¹®ÀÚ ÀÔ·Â Ãâ·Â: getchar(), putchar()
-////°ø¹é Æ÷ÇÔ ¹®ÀÚ¿­ ¹Ş°í ½ÍÀ» ¶§ : fgets
-//// ¹®ÀÚ¿­ Ãâ·Â: puts,fputs
+////ë¬¸ì ì…ë ¥ ì¶œë ¥: getchar(), putchar()
+////ê³µë°± í¬í•¨ ë¬¸ìì—´ ë°›ê³  ì‹¶ì„ ë•Œ : fgets
+//// ë¬¸ìì—´ ì¶œë ¥: puts,fputs
 
 void convert(char str1[], int length, char str2[]) {
 	const int diff = 'a' - 'A';
